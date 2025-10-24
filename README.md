@@ -6,8 +6,9 @@ Originally adapted from a legacy C++/BGI graphics project — now fully moderniz
 
 ---
 
-## 🪐 Demo Preview
-![Solar System Demo](assets/demo.gif)  
+## 🪐 Demo Preview 
+![Educational Solar System](assets/demo.gif)
+
 
 ---
 
