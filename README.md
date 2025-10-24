@@ -8,7 +8,6 @@ Originally adapted from a legacy C++/BGI graphics project — now fully moderniz
 
 ## 🪐 Demo Preview
 ![Solar System Demo](assets/demo.gif)  
-*(You can record a short screen capture using OBS or ShareX and save it here later.)*
 
 ---
 
@@ -21,18 +20,3 @@ Originally adapted from a legacy C++/BGI graphics project — now fully moderniz
 - Smooth performance using the Pygame game loop  
 
 ---
-
-## ⚙️ Requirements
-- **Python 3.11** (recommended: 3.11.10)
-- **Pygame 2.6.1+**
-
-> ⚠️ Python 3.14 is **not supported** yet because Pygame doesn’t provide wheels for it.
-
----
-
-## 💻 Installation
-
-### 1️⃣ Clone or Download the Project
-```bash
-git clone https://github.com/<yourusername>/Educational-Solar-System.git
-cd Educational-Solar-System
