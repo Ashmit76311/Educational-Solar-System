@@ -8,6 +8,7 @@ Originally adapted from a legacy C++/BGI graphics project — now fully moderniz
 
 ## 🪐 Demo Preview 
 ![Educational Solar System](assets/demo.gif)
+![Educational Solar System](assets/screenshot.png)
 
 
 ---
